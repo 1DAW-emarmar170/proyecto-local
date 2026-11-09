@@ -1,1 +1,1 @@
-Este es el cambio realizado desde mi ordenador.
+Este es el cambio definitivo después de solucionar el conflicto.
