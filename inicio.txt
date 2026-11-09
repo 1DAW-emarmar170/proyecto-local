@@ -1,1 +1,2 @@
 Este es el cambio definitivo después de solucionar el conflicto.
+Proyecto actualizado a la versión 2.0.
