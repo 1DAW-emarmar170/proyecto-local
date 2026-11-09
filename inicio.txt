@@ -1,1 +1,1 @@
-"Mi primer repositorio local" 
+Este cambio se ha realizado directamente desde Github.
